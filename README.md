@@ -3,7 +3,7 @@
 Prepared by Harish Korrapati, Britney Washington, Ishanjit Sidhu, Corey Lawson-Enos
 
 ## Summary
-* Prelminary analysis of COVID-19 death impact on select demograhics in four US states with highest death counts: California, Texas, New York, and Florida. Regression of COVID-19 death counts against vaccination plotted.
+* Preliminary analysis of COVID-19 death impact on select demographics in four US states with highest death counts: California, Texas, New York, and Florida. Regression of COVID-19 death counts against vaccination plotted.
 
 ## Packages Required
 sodapy (Socrata), json, requests, pandas, numpy, matplotlib.pyplot, scipy.stats, census
