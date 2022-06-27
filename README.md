@@ -1,4 +1,4 @@
-# COVID-19 Crunch
+# COVID-19 Data Crunch
 
 Prepared by Harish Korrapati, Britney Washington, Ishanjit Sidhu, Corey Lawson-Enos
 
