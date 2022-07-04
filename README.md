@@ -35,3 +35,7 @@ US Census API Key Request: https://api.census.gov/data/key_signup.html
 ![alt text](https://github.com/hvkorrapati/NU_project_1/blob/be2ae9114d61bc14737430a02dee319472254db1/Images/Scatter_Vaccine_vs_Death_Heat.png)
 
 ![alt text](https://github.com/hvkorrapati/NU_project_1/blob/5ef89958a3c418fb5ecb2736058eddf201c6940c/Images/US_County_heatmap.png)
+
+## Contact
+E-mail: clawson131@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/corey-lawson-enos/
